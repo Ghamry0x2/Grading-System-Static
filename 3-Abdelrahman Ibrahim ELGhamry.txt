@@ -1,0 +1,21 @@
+Student's Information : 
+------------------------
+
+ID: 3
+Name: Abdelrahman Ibrahim ELGhamry
+Email: ghamry98@hotmail.com
+Phone Number: 01060661580
+Department: Computer Engineering
+Accumulative GPA: 3.9
+
+--------------------------------------------------------------------------
+
+Studied Courses : 
+------------------
+
+  Grade       Course Name
+---------    --------------
+
+  4.0        Programming (1)
+  3.7        Software (1)
+  4.0        Object Oriented Analysis and Design
