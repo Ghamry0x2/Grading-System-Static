@@ -1,0 +1,21 @@
+Student's Information : 
+------------------------
+
+ID: 4
+Name: Hossam ElDin Khaled
+Email: hossampen97@gmail.com
+Phone Number: 01006734560
+Department: Computer Engineering
+Accumulative GPA: 4.0
+
+--------------------------------------------------------------------------
+
+Studied Courses : 
+------------------
+
+  Grade       Course Name
+---------    --------------
+
+  4.0        Programming (2)
+  4.0        Computer Architecture
+  4.0        Software (1)

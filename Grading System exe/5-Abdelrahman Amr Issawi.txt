@@ -1,0 +1,21 @@
+Student's Information : 
+------------------------
+
+ID: 5
+Name: Abdelrahman Amr Issawi
+Email: hossampen97@gmail.com
+Phone Number: 01093511759
+Department: Computer Engineering
+Accumulative GPA: 4.0
+
+--------------------------------------------------------------------------
+
+Studied Courses : 
+------------------
+
+  Grade       Course Name
+---------    --------------
+
+  4.0        Programming (1)
+  4.0        Object Oriented Analysis and Design
+  4.0        Software (2)
